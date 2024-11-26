@@ -1,2 +1,2 @@
 # SoftwareEngineering
-This app simplifies grocery shopping by allowing users to scan product barcodes, add items to a virtual cart, and quickly check out. It provides personalized discounts, tracks spending, and offers weekly/monthly statistics. Supermarkets can create customer profiles for targeted promotions, enhancing convenience and savings.
+I created this project for my Software Engineering exam, worth 9 uni credits. By integrating technology into everyday shopping routines, this app aims to make grocery shopping faster, more organized, and more enjoyable. It provides both practical benefits, such as quicker checkouts, and personalized promotions, benefiting users and supermarkets alike, helping both parties save time and money.
